@@ -16,8 +16,7 @@ outputs/quarantine/
 .env
 *.env
 
-# Power BI files
-*.pbix
+
 
 # Logs
 logs/
